@@ -178,6 +178,51 @@ The programs in this class focus on multiple inheritance, where a derived class 
 
 ---
 
+### Class 10 – Virtual Base Classes and Function Overriding
+
+The programs in this class focus on virtual base classes, resolving ambiguity in multiple inheritance, function overriding, and runtime polymorphism using virtual functions.
+
+| Program | Concept |
+|---|---|
+| `prog_1.cpp` | Diamond-style multiple inheritance where member `i` becomes ambiguous because D inherits A through both B and C |
+| `prog_2.cpp` | Resolving repeated-base ambiguity using a virtual base class |
+| `prog_3.cpp` | Function overriding with a virtual `show()` function and base-class pointer; demonstrates runtime polymorphism (late binding) |
+| `prog_4.cpp` | Further practice with base and derived `show()` functions, virtual dispatch, and direct object calls |
+
+---
+
+### Class 11 – Runtime Polymorphism, Abstract Classes, and Operator Overloading
+
+The programs in this class focus on virtual functions, runtime polymorphism, abstract classes, and unary and binary operator overloading in C++.
+
+| Program | Concept |
+|---|---|
+| `prog_1.cpp` | Shape base class and Circle derived class; virtual `draw()` demonstrates runtime polymorphism |
+| `prog_2.cpp` | One base class with three derived classes (Circle, Square, and Triangle) overriding `draw()` |
+| `prog_3.cpp` | Runtime polymorphism using an array of base-class pointers to different derived shape objects |
+| `prog_4.cpp` | Abstract Vehicle class with a pure virtual function and derived Car and Bike classes |
+| `prog_5.cpp` | Binary `+` operator overloading to add two complex numbers |
+| `prog_6.cpp` | Binary `-` operator overloading to subtract two complex numbers |
+| `prog_7.cpp` | Prefix and postfix increment operator overloading (`++`) for a Counter class |
+| `prog_8.cpp` | Prefix/postfix-style decrement logic practice; review the operator names in the current source, which still use `operator++` |
+
+---
+
+### Class 12 – String Operator Overloading and Exception Handling
+
+The programs in this class focus on operator overloading for string concatenation and exception handling using `try`, `throw`, and `catch` blocks.
+
+| Program | Concept |
+|---|---|
+| `prog_1.cpp` | Practice with binary `+` operator overloading for string concatenation; current source contains issues to correct |
+| `prog_2.cpp` | Basic exception handling using `try`, `throw`, and `catch` for a negative integer |
+| `prog_3.cpp` | Throwing and catching an integer when one of two values is zero |
+| `prog_4.cpp` | Exception handling with different thrown data types (`int` and `double`) and matching catch blocks |
+| `prog_5.cpp` | Handling division by zero by throwing and catching a message |
+| `prog_6.cpp` | Modified division-by-zero example exploring the order of division and exception throwing |
+
+---
+
 ## 🧠 Concepts Covered
 
 The repository includes the following C++ and OOPS concepts:
