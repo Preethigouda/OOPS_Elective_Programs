@@ -145,6 +145,21 @@ The final class continues the study of multi-level inheritance and focuses on th
 
 ---
 
+### Class 8 – Constructor Initializer Lists and Multiple Inheritance
+
+The programs in this class focus on constructor initializer lists, base-class and derived-class initialization, multiple inheritance, and student result calculations.
+
+| Program | Concept |
+|---|---|
+| `prog_1.cpp` | Single-level inheritance using constructor initializer lists |
+| `prog_2.cpp` | Multi-level inheritance using Person, Student, and IT_Student |
+| `prog_3.cpp` | Multiple inheritance using Student, Test, and Result |
+| `prog_4.cpp` | Parameterized constructors and initializer lists using Student, Test, and Result |
+| `prog_5.cpp` | Student result calculation using multiple inheritance with three subject marks |
+| `prog_6.cpp` | Student result calculation using multiple inheritance with five subject marks |
+
+---
+
 ## 🧠 Concepts Covered
 
 The repository covers the following C++ and OOPS concepts:
