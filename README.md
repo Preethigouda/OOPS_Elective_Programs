@@ -162,35 +162,65 @@ The programs in this class focus on constructor initializer lists, base-class an
 
 ## 🧠 Concepts Covered
 
-The repository covers the following C++ and OOPS concepts:
+The repository includes the following C++ and OOPS concepts:
 
-- Basic C++ syntax
+### Basic C++ Concepts
+- Basic C++ syntax, variables, and data types
 - Input and output using `cin` and `cout`
-- Variables and data types
-- Functions
-- Parameter passing
-  - Pass by value
-  - Pass by reference
-  - Pass by pointer
-- Strings
-- Classes and objects
-- Data members and member functions
+
+### Functions and Parameter Passing
+- Pass by value
+- Pass by reference
+- Pass by pointer
+
+### Strings
+- C-style strings
+- C++-style strings
+
+### Classes and Objects
+- Classes, objects, data members, and member functions
 - Member functions defined outside a class
-- Constructors
-  - Default constructor
-  - Parameterized constructor
-  - Copy constructor
-- Destructors
+
+### Constructors
+- Default constructor
+- Parameterized constructor
+- Copy constructor
+- Constructor initializer lists
+
+### Destructors
+- Destructors and object destruction
+
+### Static Members
 - Static data members
 - Static member functions
-- Friend functions
-- Friend functions involving multiple classes
+
+### Friend Functions
+- Friend functions accessing private class members
+- Friend functions accessing members of multiple classes
+
+### Inheritance
 - Single-level inheritance
 - Multi-level inheritance
+- Multiple inheritance
+- Virtual base classes and the diamond problem
 - Access specifiers
   - `private`
   - `public`
   - `protected`
+- Function overriding
+- Virtual functions, late binding, and runtime polymorphism
+- Abstract classes and pure virtual functions
+
+### Operator Overloading
+- Binary `+` and `-` operators
+- Prefix and postfix increment/decrement operators
+
+### Exception Handling
+- `try`
+- `throw`
+- `catch`
+- Handling different exception types
+- Division-by-zero examples
 
 ---
 
