@@ -146,7 +146,6 @@ The final class continues the study of multi-level inheritance and focuses on th
 |---|---|
 | `prog_1.cpp` | Multi-level inheritance using `Vehicle`, `Car`, and `Sports Car` |
 | `prog_2.cpp` | Multi-level inheritance using `protected` members |
-| `prog_3.cpp` | Reserved for further practice |
 
 ---
 
