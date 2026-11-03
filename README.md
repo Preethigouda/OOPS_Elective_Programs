@@ -32,7 +32,12 @@ OOPS_Elective_Programs/
 │   ├── Class_4/
 │   ├── Class_5/
 │   ├── Class_6/
-│   └── class_7/
+│   ├── Class_7/
+│   ├── Class_8/
+│   ├── Class_9/
+│   ├── Class_10/
+│   ├── Class_11/
+│   └── Class_12/
 │
 ├── Screenshots of errors/
 │
@@ -157,6 +162,19 @@ The programs in this class focus on constructor initializer lists, base-class an
 | `prog_4.cpp` | Parameterized constructors and initializer lists using Student, Test, and Result |
 | `prog_5.cpp` | Student result calculation using multiple inheritance with three subject marks |
 | `prog_6.cpp` | Student result calculation using multiple inheritance with five subject marks |
+
+---
+
+### Class 9 – Multiple Inheritance
+
+The programs in this class focus on multiple inheritance, where a derived class inherits properties and member functions from more than one base class.
+
+| Program | Concept |
+|---|---|
+| `prog_1.cpp` | Multiple inheritance using Liquid, Fuel, and derived class Petrol |
+| `prog_2.cpp` | Student, Test, and Result multiple-inheritance example; an intermediate constructor/display practice version |
+
+> **Note:** The Class 9 folder contains `prog_1.cpp` and `prog_2.cpp`. Class 8 also includes related versions of the student-result example.
 
 ---
 
